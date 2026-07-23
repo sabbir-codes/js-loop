@@ -1,5 +1,5 @@
-let count = 1;
-while(count < 20){
+let count = 20;
+while(count > 0){
     console.log(count);
     count--;
 }
